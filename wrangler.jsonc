@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "su-hoja-sistema",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2026-10-26",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "su-hoja-sistema-db",
+      "database_id": "5cdbc91a-e26e-4170-81ad-9575d3d79e46"
+    }
+  ]
+}

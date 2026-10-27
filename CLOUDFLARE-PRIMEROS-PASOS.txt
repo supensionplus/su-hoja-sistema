@@ -1,0 +1,6 @@
+IMPORTANTE: esta es la nueva versión para Cloudflare. No uses el ZIP anterior de Base44.
+
+1. Descomprime el ZIP.
+2. Lee README-CLOUDFLARE.md.
+3. No publiques hasta crear D1 y configurar el binding DB.
+4. No actives el acceso de clientes reales hasta probar el registro, inicio/cierre de sesión y recuperación.

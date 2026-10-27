@@ -1,0 +1,15 @@
+SUBIR EL PROYECTO A GITHUB DESDE EL NAVEGADOR
+
+1. En GitHub, crea un repositorio privado llamado: su-hoja-sistema
+2. En la página del repositorio, pulsa Add file > Upload files.
+3. Abre la carpeta descomprimida de este proyecto en tu computador.
+4. Selecciona TODOS los archivos y carpetas que están dentro de la carpeta del proyecto.
+   IMPORTANTE: sube el contenido interior, no un ZIP dentro del repositorio.
+   Deben verse, entre otros: src, functions, package.json, wrangler.jsonc y schema.sql.
+5. Arrastra los archivos y carpetas a la zona de carga de GitHub.
+6. Espera a que termine y pulsa Commit changes.
+7. No subas node_modules, claves, contraseñas ni archivos secretos.
+8. Después conecta este repositorio a Cloudflare Pages.
+
+La configuración wrangler.jsonc ya contiene el ID de la base D1 que se creó para este proyecto.
+El código todavía debe instalar dependencias, compilarse y probarse en Cloudflare antes de usarlo con clientes.
